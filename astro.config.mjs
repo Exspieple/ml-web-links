@@ -4,6 +4,9 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://resources.merletz.de/",
+
+  
   integrations: [
     starlight({
       title: "Useful resources",
@@ -27,7 +30,7 @@ export default defineConfig({
         {
           label: "School",
           items: [{ autogenerate: { directory: "school" } }],
-		  badge: "WIP",
+          badge: "WIP",
         },
         {
           label: "Aviation",
