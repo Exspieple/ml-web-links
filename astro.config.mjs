@@ -9,7 +9,7 @@ export default defineConfig({
 
   integrations: [
     starlight({
-      title: "Useful resources",
+      title: "ML.resources",
       tagline: "A collection of useful resources for developers.",
       logo: {
         src: "./src/assets/LZK_logo.svg",
