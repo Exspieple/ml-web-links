@@ -1,40 +1,24 @@
 ---
 title: Useful resources
 description: A collection by merletz.de
-template: splash # Remove or comment out this line to display the site sidebar on this page.
+template: splash
 hero:
   tagline: A collection by merletz.de
   image:
-    file: https://images.tagesschau.de/image/64973a75-c74d-452c-8d49-d84f2f8021a6/AAABnrbbV4E/AAABnSSvdEs/16x7/ezb-frankfurt-110.webp?width=1280
-  actions:
-    - text: Example Guide
-      link: /guides/example/
-      icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
-      variant: minimal
+    file: /src/assets/LZK_logo.svg
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, LinkButton } from '@astrojs/starlight/components';
 
-## Next steps
+## Topics
 
-<CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+<CardGrid>
+	<Card title="Schule (DE)" icon="translate">
+		Links zu verschiedensten Online-Tools, Materialquellen und anderen Ressourcen für die Schule<br /><br />
+		<LinkButton variant="secondary" href="/schule/allgemeines">Los geht's!</LinkButton>
 	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="Aviation (EN)" icon="safari">
+		Tools and resources for real-world aviation as well as virtual flight simulation<br /><br />
+		<LinkButton variant="secondary" href="/aviation/msfs/">Go there!</LinkButton>
 	</Card>
 </CardGrid>
