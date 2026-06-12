@@ -1,0 +1,4 @@
+/* Inline Links in .md file */
+main a:not([class]) {
+    color: var(--sl-color-accent-high);
+}

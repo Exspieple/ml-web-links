@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
+import starlightThemeRapidePlugin from "starlight-theme-rapide";
 
 // https://astro.build/config
 export default defineConfig({
@@ -14,6 +15,12 @@ export default defineConfig({
       logo: {
         src: "./src/assets/LZK_logo.svg",
       },
+      customCss: [
+        // Path to your Tailwind base styles:
+        './src/styles/starlightVariables.css',
+        './src/styles/themeModification.css',
+      ],
+      plugins: [starlightThemeRapidePlugin()],
       social: [
         {
           icon: "github",
