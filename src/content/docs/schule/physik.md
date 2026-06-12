@@ -1,5 +1,5 @@
 ---
-title: Physics
+title: Physik
 description: Online tools, data sources and much more.
 ---
 

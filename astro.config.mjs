@@ -38,16 +38,9 @@ export default defineConfig({
         },
       ],
       sidebar: [
-        /* {
-          label: "Guides",
-          items: [
-            // Each item here is one entry in the navigation menu.
-            { label: "Example Guide", slug: "guides/example" },
-          ],
-        }, */
         {
           label: "Schule",
-          items: [{ autogenerate: { directory: "school" } }],
+          items: [{ autogenerate: { directory: "schule" } }],
           collapsed: true,
           badge: "DE",
         },
