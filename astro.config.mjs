@@ -10,11 +10,20 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Useful resources",
-      favicon: "favicon.ico",
       tagline: "A collection of useful resources for developers.",
       logo: {
         src: "./src/assets/LZK_logo.svg",
       },
+      favicon: "favicon.ico",
+      head: [
+        {
+          tag: "meta",
+          attrs: {
+            name: "robots",
+            content: "noindex, nofollow",
+          }
+        }
+      ],
       customCss: [
         // Path to your Tailwind base styles:
         "./src/styles/starlightVariables.css",
