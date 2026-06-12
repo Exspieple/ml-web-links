@@ -6,9 +6,10 @@ hero:
     file: https://cdn.prod.www.spiegel.de/images/cb95e1e6-0001-0004-0000-000000158379_w1200_r1.778_fpx38.57_fpy44.96.jpg
 ---
 
-## Grafikprogramme
+## Grafikprogramme und Online-Rechner
 - [GeoGebra Rechner Suite](https://www.geogebra.org/calculator): Grafikrechner, 3D Rechner, Taschenrechner etc.
-- [Wissenschaftlicher Taschenrechner](https://www.schulferien.org/taschenrechner/wissenschaftlicher_taschenrechner.html)
+- [Desmos](https://www.desmos.com/scientific) (Alternative zu GeoGebra)
+- [Wissenschaftlicher Taschenrechner](https://www.desmos.com/scientific)
 - [kgV bestimmen](https://www.mathepower.com/kgv.php)
 - [Ableitungsrechner](https://www.ableitungsrechner.net/): Ableitung mit Rechenweg
 
