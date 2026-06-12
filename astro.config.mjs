@@ -6,17 +6,24 @@ import starlight from "@astrojs/starlight";
 export default defineConfig({
   site: "https://resources.merletz.de/",
 
-  
   integrations: [
     starlight({
       title: "Useful resources",
       favicon: "favicon.ico",
       tagline: "A collection of useful resources for developers.",
+      logo: {
+        src: "./src/assets/LZK_logo.svg",
+      },
       social: [
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/withastro/starlight",
+          href: "https://github.com/Exspieple/ml-web-links",
+        },
+        {
+          icon: "instagram",
+          label: "Instagram",
+          href: "https://www.instagram.com/merletz_/",
         },
       ],
       sidebar: [
@@ -28,9 +35,9 @@ export default defineConfig({
           ],
         },
         {
-          label: "School",
+          label: "Schule",
           items: [{ autogenerate: { directory: "school" } }],
-          badge: "WIP",
+          badge: "DE",
         },
         {
           label: "Aviation",
