@@ -17,10 +17,14 @@ export default defineConfig({
       },
       customCss: [
         // Path to your Tailwind base styles:
-        './src/styles/starlightVariables.css',
-        './src/styles/themeModification.css',
+        "./src/styles/starlightVariables.css",
+        "./src/styles/themeModification.css",
       ],
       plugins: [starlightThemeRapidePlugin()],
+      editLink: {
+        baseUrl: "https://github.com/Exspieple/ml-web-links/edit/main",
+      },
+      lastUpdated: true,
       social: [
         {
           icon: "github",
