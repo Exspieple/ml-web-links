@@ -1,11 +1,17 @@
 ---
-title: Mathematics
-description: Online tools, data sources and much more.
+title: Mathematik
+hero:
+  tagline: Nützliche Tools, Quellen und andere Seiten
+  image:
+    file: https://cdn.prod.www.spiegel.de/images/cb95e1e6-0001-0004-0000-000000158379_w1200_r1.778_fpx38.57_fpy44.96.jpg
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+## Grafikprogramme
+- [GeoGebra Rechner Suite](https://www.geogebra.org/calculator): Grafikrechner, 3D Rechner, Taschenrechner etc.
+- [Wissenschaftlicher Taschenrechner](https://www.schulferien.org/taschenrechner/wissenschaftlicher_taschenrechner.html)
+- [kgV bestimmen](https://www.mathepower.com/kgv.php)
+- [Ableitungsrechner](https://www.ableitungsrechner.net/): Ableitung mit Rechenweg
 
-## Further reading
-
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+## Übungsaufgaben
+- [MatheGym](https://mathegym.de/login) (Schulzugang erforderlich)
+- [Mathe-Strobl](https://www.strobl-f.de/uebmath.html): Übungen und Lösungen zu allen Themen jeder Jahrgangsstufe (Bayerische Gymnasien)

@@ -1,6 +1,5 @@
 ---
 title: Geografie
-description: Online tools, data sources and much more.
 hero:
   tagline: Nützliche Tools, Quellen und andere Seiten
   image:
