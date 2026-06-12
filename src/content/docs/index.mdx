@@ -8,17 +8,29 @@ hero:
     file: /src/assets/LZK_logo.svg
 ---
 
-import { Card, CardGrid, LinkButton } from '@astrojs/starlight/components';
+import { Card, CardGrid, LinkButton } from "@astrojs/starlight/components";
 
 ## Topics
 
 <CardGrid>
-	<Card title="Schule (DE)" icon="translate">
-		Links zu verschiedensten Online-Tools, Materialquellen und anderen Ressourcen für die Schule<br /><br />
-		<LinkButton variant="secondary" href="/schule/allgemeines">Los geht's!</LinkButton>
-	</Card>
-	<Card title="Aviation (EN)" icon="safari">
-		Tools and resources for real-world aviation as well as virtual flight simulation<br /><br />
-		<LinkButton variant="secondary" href="/aviation/msfs/">Go there!</LinkButton>
-	</Card>
+  <Card title="Schule (DE)" icon="translate">
+    Links zu verschiedensten Online-Tools, Materialquellen und anderen
+    Ressourcen für die Schule
+    <LinkButton variant="secondary" href="/schule/allgemeines">
+      Los geht's!
+    </LinkButton>
+  </Card>
+  <Card title="Aviation (EN)" icon="safari">
+    Tools and resources for real-world aviation as well as virtual flight
+    simulation
+    <LinkButton variant="secondary" href="/aviation/msfs/">
+      Go there!
+    </LinkButton>
+  </Card>
 </CardGrid>
+
+<div align="center">
+  <LinkButton variant="minimal" href="/impressum">
+    Impressum
+  </LinkButton>
+</div>
