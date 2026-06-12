@@ -1,7 +1,7 @@
 ---
 title: Mathematik
 hero:
-  tagline: Nützliche Tools, Quellen und andere Seiten
+  tagline: Übungsquellen, Onlinerechner und mehr
   image:
     file: https://cdn.prod.www.spiegel.de/images/cb95e1e6-0001-0004-0000-000000158379_w1200_r1.778_fpx38.57_fpy44.96.jpg
 ---

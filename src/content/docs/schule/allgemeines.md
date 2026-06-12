@@ -1,7 +1,7 @@
 ---
 title: Allgemeines
 hero:
-  tagline: verschiedene Tools, wichtige Dokumente
+  tagline: Verschiedene Tools, wichtige Dokumente
   image:
     file: https://bilder.deutschlandfunk.de/31/f5/8e/a6/31f58ea6-7797-41a9-a364-7a0c9ea7a505/schule-schueler-melden-100-1920x1080.jpg
 ---
