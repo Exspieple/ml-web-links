@@ -35,6 +35,6 @@ hero:
 ## Schulintern
 - [Homepage](https://www.akg-schwabach.de/)
 - [WebUntis](https://ak-gym-schwabach.webuntis.com/timetable/my-student)
-- [Microsoft Teams](https://teams.microsoft.com/_#/)
+- [Microsoft Teams](https://teams.microsoft.com/)
 - [BayernCloud Schule](https://portal.bycs.de/)
 - [Lehrerseite](https://akg-sc.selfip.org/)
