@@ -1,0 +1,24 @@
+---
+title: Schule.
+template: splash  
+hero:
+  tagline: Links, Tools und mehr von merletz.de
+  image:
+    file: https://www.euroherz.de/storage/thumbs/1275x/187263.webp
+sidebar:
+  hidden: true
+navigation: false
+tableOfContents: false
+---
+
+import { CardGrid, LinkCard } from "@astrojs/starlight/components";
+
+## Fächer und andere Bereiche
+
+<CardGrid>
+  <LinkCard title="Allgemeines" href="/schule/allgemeines"/>
+  <LinkCard title="Französisch" href="/schule/französisch"/>
+  <LinkCard title="Geografie" href="/schule/geografie"/>
+  <LinkCard title="Mathematik" href="/schule/mathematik"/>
+  <LinkCard title="Physik" href="/schule/physik"/>
+</CardGrid>
