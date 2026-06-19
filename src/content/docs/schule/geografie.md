@@ -1,3 +1,4 @@
+
 ---
 title: Geografie
 hero:
@@ -13,9 +14,15 @@ hero:
 - [AncientEarth](https://dinosaurpictures.org/ancient-earth): Erde im Lauf der Erdzeitalter
 
 ## Visualisierungen
+- [MeteoBlue Karte](https://www.meteoblue.com/de/wetter/maps/): detaillierte Wettervorhersagekarte inklusive vieler Wetterelementen
 - [Earth Nullschool](https://earth.nullschool.net/): detailierte Visualisierung der globalen Windzirkulation, Meeresströmungen, historische Daten
 
 ## Klimadiagramme
 - [LMZ Geoportal](https://geo.lmz-bw.de/klima-welt/): Klimadiagramme und -tabellen vergleichen, herunterladen
 - [Klimadiagramme.de](https://www.klimadiagramme.de/) (Kontinent ist in Navigation wechselbar, auf Punkte in Karte klicken)
 - [WebGIS-Schule](https://www.webgis-schule.de/wordpress/website/world_climate_de/) (Datenschutzfehler)
+
+Weltwirtschaft
+- [VessleFinder](https://www.vesselfinder.com/): Tracking des globalen Schiffsverkehrs
+- [Flightradar24](https://www.flightradar24.com/): Tracking des globalen Luftverkehrs
+- [ElectricityMap](https://app.electricitymaps.com/): internationale Energieerzeugung und Klimabilanz
