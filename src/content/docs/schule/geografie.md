@@ -12,6 +12,7 @@ hero:
 - [NASA Earthview](https://worldview.earthdata.nasa.gov/): tagesaktuelle Satellitenbilder, historische Daten, vielfältige Layers (z.B. Bevölkerungsdichte, Ascheaerosole, Packeiskonzentration)
 - [GFZ Earthquake Explorer](https://geofon.gfz.de/eqexplorer/): aktuelle und historische Erd-/Seebeben, nach Magnitude klassifiziert
 - [AncientEarth](https://dinosaurpictures.org/ancient-earth): Erde im Lauf der Erdzeitalter
+- [StellariumWeb](https://stellarium-web.org/): Himmelkörper aus Erdperspektive
 
 ## Live-Wetter und Vorhersage
 - [MeteoBlue Karte](https://www.meteoblue.com/de/wetter/maps/): detaillierte Wettervorhersagekarte inklusive vieler Wetterelementen
