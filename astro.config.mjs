@@ -59,6 +59,12 @@ export default defineConfig({
           collapsed: true,
           badge: "EN",
         },
+        {
+          label: "Software",
+          items: [{ autogenerate: { directory: "software" } }],
+          collapsed: true,
+          badge: "DE",
+        },
       ],
     }),
   ],
