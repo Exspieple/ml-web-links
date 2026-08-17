@@ -1,6 +1,6 @@
 ---
 title: Flight Simulation
-description: Everything all around flightsimming
+description: Everything all around flight simulation
 ---
 
 ## Simulators
@@ -20,6 +20,6 @@ description: Everything all around flightsimming
 - [FlyByWireSim A32X & A380](flybywiresim.org)
 
 ### Sceneries
-- [VirtualFra]()
+- [VirtualFra](https://www.virtual-fra.com/)
 
 ### Other
