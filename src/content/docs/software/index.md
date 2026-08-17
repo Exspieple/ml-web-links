@@ -5,7 +5,7 @@ description: Sammlung von bevorzugt kostenloser, quelloffener Software für jede
 
 ## Allgemeines
 - [VLC Media Player](https://www.videolan.org/vlc): Abspielen von Audio und Video verschiedenster Codecs
-- [PDF24](https://www.pdf24.org/): PDF Viewer und umfassende Toolbox
+- [PDF24](https://tools.pdf24.org/de/alle-tools): PDF Viewer und umfassende Toolbox
 
 ## Text
 - [LibreOffice](https://www.libreoffice.org/): MS Office Suite Alternative
