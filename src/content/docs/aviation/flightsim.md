@@ -18,6 +18,8 @@ description: Everything all around flight simulation
 - [IVAO](https://ivao.aero/)
 
 ## MSFS: Addons
+- [flightsim.to](https://flightsim.to/) (marketplace for paid/free liveries, aircrafts and tools)
+
 ### Aircraft
 - [FlyByWireSim A32X & A380](https://flybywiresim.com) (free, open-source)
 - [Fenix Simulations A320 family](https://fenixsim.com/) (paid, high-end)
@@ -26,4 +28,9 @@ description: Everything all around flight simulation
 ### Sceneries
 - [VirtualFra](https://www.virtual-fra.com/)
 
-### Other
+### Tools
+- [OpenTrack](https://github.com/opentrack/opentrack) (headtracker)
+- [AI Track](https://github.com/AIRLegend/aitrack) (headtracker working with OpenTrack)
+- [WebRemote for FBW A32NX](https://flightsim.to/addon/48699/webremote-for-fbw-a32nx) (instructor's panel)
+- [FSUIPC](https://fsuipc.com/) (simulator utility with websocket)
+- [MSFS Addon Linker](https://flightsim.to/addon/1572/msfs-addons-linker)
